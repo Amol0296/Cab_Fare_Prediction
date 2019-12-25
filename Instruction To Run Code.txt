@@ -1,0 +1,19 @@
+TO Run Code use the following steps
+
+For Python:
+System Requirement:
+	1. Anaconda enviroment
+	2. python3 
+
+1.I have provide two files 
+	i. Cab_Fare_Prediction.py
+	ii. Cab_Fare_Prediction.ipynb
+	
+2. Use jupyter notebook for running .ipynb file
+3. TO run .py file use following command in command line
+	python Cab_Fare_Prediction.py
+For R:
+System Requirement:
+	1. R studo
+	2. R version 3.6.1
+1. use R studio to run .R file 
